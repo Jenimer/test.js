@@ -1,0 +1,20 @@
+body {
+    background-color: gray;
+}
+#container {
+    min-width: 100%;
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+   
+}
+button {
+    font-size: 45px;
+    margin: 15px;
+    background-color: darkcyan;
+    border: black 3px solid;
+}
+
+
+    
+
